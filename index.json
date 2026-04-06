@@ -27,7 +27,7 @@
         "name": "nhentai",
         "fileName": "nhentai.js",
         "key": "nhentai",
-        "version": "1.0.6"
+        "version": "1.0.8"
     },
     {
         "name": "紳士漫畫",
@@ -175,7 +175,7 @@
         "fileName": "hot_manga.js",
         "key": "hot_manga",
         "version": "1.0.0"
-	},
+    },
     {
         "name": "Kavita",
         "fileName": "kavita.js",
